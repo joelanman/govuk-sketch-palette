@@ -9,3 +9,5 @@ GOV.UK colour palette for [Sketch](https://www.sketchapp.com/) (requires palette
 4. Select the `govuk.sketchpalette` file
 
 The GOV.UK colours will now appear in the Sketch colour picker, under `Document colors`
+
+![Screenshot of GOV.UK colour palette in Sketch](screenshot.png?raw=true)
